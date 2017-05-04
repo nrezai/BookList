@@ -1,0 +1,9 @@
+/Users/Farhad/Projects/AP4/AP4/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/Farhad/Projects/AP4/AP4/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/Farhad/Projects/AP4/AP4/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/actool/_PartialAppManifest.items
+/Users/Farhad/Projects/AP4/AP4/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/actool/_BundleResourceWithLogicalName.items
+/Users/Farhad/Projects/AP4/AP4/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/optimized/
+/Users/Farhad/Projects/AP4/AP4/bin/iPhoneSimulator/Debug/AP4.exe.mdb
+/Users/Farhad/Projects/AP4/AP4/bin/iPhoneSimulator/Debug/AP4.exe
+/Users/Farhad/Projects/AP4/AP4/obj/iPhoneSimulator/Debug/AP4.exe
+/Users/Farhad/Projects/AP4/AP4/obj/iPhoneSimulator/Debug/AP4.exe.mdb
